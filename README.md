@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Rémy 👋
 
-<!--
-**RJW-db/RJW-db** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineering student at Codam (42 Network), learning through hands-on projects and eager to keep growing while building robust, sustainable, and reliable software.
 
-Here are some ideas to get you started:
+- Tinkering with my homelab on my NAS
+- Interested in low-level systems, hardware, and practical engineering challenges
+- Exploring technologies that support sustainability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img
+  src="https://github-readme-stats-bay-ten-96.vercel.app/api/top-langs/?username=RJW-db&layout=compact&custom_title=Top%20Languages&hide_border=true&langs_count=9&theme=solarized-light"
+  alt="Top Languages"
+  width="400"
+/>
